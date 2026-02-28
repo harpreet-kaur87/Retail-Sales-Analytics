@@ -3,6 +3,9 @@
 ## Project Objective:
 To analyze multi-dimensional retail sales data and uncover key revenue drivers, profit contributors, customer purchasing behavior, product category performance, and regional sales distribution by building a structured SQL-based analytical framework. The project aimed to convert raw e-commerce data into meaningful business intelligence insights that can support growth strategy, performance optimization, and risk identification.
 
+#### ER Diagram
+![er diagram](er_diagram.png)
+
 🛠 Tools & Technologies Used
 Python (Pandas) – Data cleaning and transformation
 MySQL Workbench – Database design, schema creation, data insertion, SQL analysis

@@ -6,12 +6,12 @@ To analyze multi-dimensional retail sales data and uncover key revenue drivers, 
 #### ER Diagram
 ![er diagram](er_diagram.png)
 
-🛠 Tools & Technologies Used
-Python (Pandas) – Data cleaning and transformation
-MySQL Workbench – Database design, schema creation, data insertion, SQL analysis
-Power BI – Interactive dashboards and visualization
+🛠 Tools & Technologies Used  
+Python (Pandas) – Data cleaning and transformation  
+MySQL Workbench – Database design, schema creation, data insertion, SQL analysis  
+Power BI – Interactive dashboards and visualization  
 
-📌 Key Responsibilities
+** 📌 Key Responsibilities **
 
 1. Cleaned and transformed raw CSV data using Pandas (handled missing values, ensured data consistency, formatted date fields).
 
